@@ -1,6 +1,8 @@
 import java.util.List;
 import java.util.ArrayList;
 
+//Bottom up optimal fib solution
+
 class Solution {
     public int fib(int n) {
         if(n == 0) return 0;
